@@ -1,0 +1,26 @@
+# Core Data & ML
+numpy
+pandas
+scikit-learn
+dvc
+mlflow
+joblib
+dill
+
+# Web Framework & Database
+flask
+flask-cors
+flask-pymongo
+pymongo[srv]
+dnspython
+gunicorn
+streamlit
+streamlit-extras
+
+# Utilities & Testing
+argparse
+pytest
+flask-monitoringdashboard
+
+# Local Package Installation
+-e .
